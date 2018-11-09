@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp">
+    
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" 
+        android:gravity="center"
+        android:text="@string/fragmento_receptor"
+        android:textSize="24sp"
+        android:textStyle="bold"/>
+    
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" 
+        android:gravity="center"
+        android:text="@string/fragmento_receptor_xml"/>
+    
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:text="@string/el_mensaje_que_se_ha_recibido_es_el_siguiente"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/text_mensaje"
+        android:layout_marginTop="8dp"
+        android:text="@string/comunicacion_entre_fragmentos"
+        android:textSize="16dp"
+        android:textStyle="italic"/>
+
+</LinearLayout>

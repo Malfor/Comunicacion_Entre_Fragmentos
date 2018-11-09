@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ComunicacionEntreFragmentos</string>
+    <string name="fragmento_emisor_xml">Fragmento_emisor.xml</string>
+    <string name="escribe_un_mensaje">Escribe un mensaje</string>
+    <string name="enviar">Enviar</string>
+    <string name="fragmento_receptor">Fragmento Receptor</string>
+    <string name="fragmento_receptor_xml">fragmento_receptor.xml</string>
+    <string name="el_mensaje_que_se_ha_recibido_es_el_siguiente">El mensaje que se ha recibido es el siguiente:</string>
+    <string name="comunicacion_entre_fragmentos">Comunicacion entre Fragmentos</string>
+</resources>
